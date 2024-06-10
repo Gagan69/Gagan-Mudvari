@@ -8,7 +8,7 @@
 [![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/blue_skygag/)
 
 
-:wave: Hi there, My name is Skye Mudvari AKA Gagan.😀 I'm from USA, I'm a self-taught DevOps/Cloud Technologies and Python/Django Developer.
+:wave: Hi there, My name is Gagan Mudvari AKA Skye.😀 I'm from USA, I'm a self-taught DevOps/Cloud Technologies and Python/Django Developer.
 I've profound knowledge in Django Framework, Machine Learning, AI Software Development. 
 Currently, I completed Master in Computer Science from Oklahoma Christian University, USA. 
 I'm interested in doing research on text and image related problems. 
